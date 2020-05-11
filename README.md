@@ -3,11 +3,11 @@
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members: 
-- Adam Kreitzman, name1@ucsd.edu
-- Jonathon Zhang, name2@ucsd.edu
-- Firstname Lastname3, name3@ucsd.edu
-- Firstname Lastname4, name4@ucsd.edu
-- Firstname Lastname5, name5@ucsd.edu
+- Adam Kreitzman, akreitzm@ucsd.edu
+- Jonathan Song Zhang, name2@ucsd.edu
+- Joseph Fallon, name3@ucsd.edu
+- Ka Ming, name4@ucsd.edu
+- Yijian Zong, name5@ucsd.edu
 
 ## Abstract
 
