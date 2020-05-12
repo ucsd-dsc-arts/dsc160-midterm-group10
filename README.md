@@ -71,7 +71,7 @@ This section will contain links to documentation of your results. This can inclu
 
 The first paragraph should be a short summary describing your results.
 
-In broad terms, we learned that the songs from pop artists tended to be much formulaic in nature, but that didn't necessarily mean that the SVC model hard a harder time differentiating between the songs, though that was likely the impact of unforeseen factors in our analysis. Because the pop songs were more formulaic, it likely meant that the classifier had a much easier job differentiating between each one. With how arrythmic and unique each hip hop song can be, it makes sense that the classifier could struggle when only presented with a 10 second portion of the song, though this wasn't necessarily something we foresaw happening. However, this was not always the case, as the model had a higher score when run with two J Cole songs being inputted then when run with two Rihanna songs being inputted, while in a different case study, the model run on several combinations of Justin Bieber songs had much higher accuracy than when it was run on different combinations of Kendrick Lamar songs. This shows that these results may be less indicative of the genre of the artist and possibly more correlated to the style of each specific artist as well. With how hip hop music has garnered much more mainstream appeal, it isn't all that surprising to see that certain hip hop artists may have pop qualities to their music, with many songs being a combination of the two genres.  
+In broad terms, we learned that the songs from pop artists tended to be much formulaic in nature, but that didn't necessarily mean that the SVC model hard a harder time differentiating between the songs, though that was likely the impact of unforeseen factors in our analysis. Because the pop songs were more formulaic, it likely meant that the classifier had a much easier job differentiating between each one. With how arrythmic and unique each hip hop song can be, it makes sense that the classifier could struggle when only presented with a 10 second portion of the song, though this wasn't necessarily something we foresaw happening. However, this was not always the case, as the model had a higher score when run with two J Cole songs being inputted then when run with two Rihanna songs being inputted, while in a different case study, the model run on several combinations of Justin Bieber songs had much higher accuracy than when it was run on different combinations of Kendrick Lamar songs. This shows that these results may be less indicative of the genre of the artist and possibly more correlated to the style of each specific artist as well. With how hip hop music has garnered much more mainstream appeal, it isn't all that surprising to see that certain hip hop artists may have pop qualities to their music, with many songs being a combination of the two genres. One example of that would be future, whose waveplots looked very similar to some of the songs by pop artists rather than other hip hop artists, and had similar results as the songs by Lady Gaga in that specific case study. This could be a manifestation of the fact that Future is among the new style of "mumble rappers" who have received criticism for having music devoid of much lyricism and more focused on beats, with lyricism having long been a staple of the hip hop genre.
 
 The subsequent paragraphs could address questions including:
 - Why is this culturally relevant?
@@ -84,10 +84,10 @@ The subsequent paragraphs could address questions including:
 
 We were able to effectively distribute the work between team members by having each person be responsible for one artist for each genre as follows:
 Adam Kreitzman - Kendrick Lamar and Justin Bieber
-Jon Zhang - Chance the Rapper and Katy Pery
+Jon Zhang - Chance the Rapper and Katy Perry
 Yijian Kong - 
 Ka Ming -
-Joseph Fallon - 
+Joseph Fallon - Lady Gaga and Future
 
 ## Technical Notes and Dependencies
 
