@@ -28,7 +28,7 @@ For the project proposal, please write a short abstact addressing the questions 
   The dataset that we chose to analyze was 2-3 songs from 10 different artists, 5 of which were pop artists and 5 of which were hip hop artists. We used the website MP3Quack to download the mp3 files compatible with the Librosa library in Python3. The main research question that we were trying to analyze is whether any patterns emerged based on our perceived simplicity of many pop songs in comparison to hip hop songs. We wanted to first see based on the waveplots and spectrograms of the songs of each artist if they were similar in frame and the artists themselves exhibited a particular sound. 
   The features of data that we used were the waveplots and spectrograms of the audio files in order to visualize each song, and then the SVC classifier based on the MFCC's of each song. Our hypothesis about the results is that the songs by the pop artists will exhibit a very formulaic graph whereas the hip hop songs will be much choppy and disorderly simply due to the nature of each genre of music. 
   The techniques we will use rely on the the Librosa library and Sci-Kit Learn libraries in Python3, where we will extract and visualize the waveplots and spectrograms, and then run classification models against the different combinations of songs from each artist to see how easily the model can differentiate between them, as a method of determining the similarity of them. This is definitely not foolproof, but we think it can give us some interesting data.
-  Our results will basically just come 
+  Our results will basically just come as the graphs and model accuracy of the different songs. In order to effectively break it up between 5 different people, we are treating it as 5 different test cases and comparing across each one.
 
 ## Data
 
@@ -70,6 +70,8 @@ This section will contain links to documentation of your results. This can inclu
 (30 points, three to five paragraphs)
 
 The first paragraph should be a short summary describing your results.
+
+In broad terms, we learned that the songs from pop artists tended to be much formulaic in nature, but that didn't necessarily mean that the SVC model hard a harder time differentiating between the songs, though that was likely the impact of unforeseen factors in our analysis. Because the pop songs were more formulaic, it likely meant that the classifier had a much easier job differentiating between each one. With how arrythmic and unique each hip hop song can be, it makes sense that the classifier could struggle when only presented with a 10 second portion of the song, though this wasn't necessarily something we foresaw happening.
 
 The subsequent paragraphs could address questions including:
 - Why is this culturally relevant?
