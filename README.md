@@ -87,9 +87,11 @@ The subsequent paragraphs could address questions including:
 We were able to effectively distribute the work between team members by having each person be responsible for one artist for each genre as follows:
 Adam Kreitzman - Kendrick Lamar and Justin Bieber
 Jon Zhang - Chance the Rapper and Katy Perry
-Yijian Kong - 
-Ka Ming -
+Yijian Kong - Biggie Smalls and Taylor Swift
+Ka Ming - Rihanna and J Cole
 Joseph Fallon - Lady Gaga and Future
+
+Adam handled most of the writing duties, but with the help and suggestions of the whole group each step of the way, so we feel as though the project is a good reflection of every individual equally contributing.
 
 ## Technical Notes and Dependencies
 
@@ -97,6 +99,8 @@ Any implementation details or notes we need to repeat your work.
 - Additional libraries you are using for this project
 - Does this code require other pip packages, software, etc?
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+
+This project should not be too difficult to replicate, but make sure that the file structure is correct so that Librosa is able to upload the audio files accordingly (in the data folder).
 
 ## Reference
 
