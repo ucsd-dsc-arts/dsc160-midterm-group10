@@ -40,6 +40,8 @@ This section will describe your data and its origins. Each item should contain a
 - Who created the works? 
 - Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
 
+  Our cultural dataset it 2-3 songs from 10 different artists, with 5 pop artists and 5 hip hop artists. In a sense, it a dataset of randomized artists from two different genres we created. The songs were all created at different times in the 21st century or the tail end of the 90s, but come from rather recent but established artists. The artists we chose for hip hop were Kendrick Lamar, Chance the Rapper, J Cole, Biggie Smalls, and Future. The artists we chose for pop were Justin Bieber, Katy Perry, Rihanna, Taylor Swift, and Lady Gaga. The data is in the form of mp3 files, which are recordings of their music.
+
 ## Code
 
 (20 points)
