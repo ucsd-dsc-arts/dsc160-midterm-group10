@@ -7,7 +7,7 @@ Project Team Members:
 - Jonathan Song Zhang, name2@ucsd.edu
 - Joseph Fallon, name3@ucsd.edu
 - Ka Ming Chan, kmc026@ucsd.edu
-- Yijian Zong, name5@ucsd.edu
+- Yijian Zong, yizong@ucsd.edu
 
 ## Abstract
 
