@@ -25,6 +25,11 @@ For the project proposal, please write a short abstact addressing the questions 
 - How are you expanding on topics we have covered in class? 
 - Why is it interesting? (personally, culturally, politically, other)
 
+  The dataset that we chose to analyze was 2-3 songs from 10 different artists, 5 of which were pop artists and 5 of which were hip hop artists. We used the website MP3Quack to download the mp3 files compatible with the Librosa library in Python3. The main research question that we were trying to analyze is whether any patterns emerged based on our perceived simplicity of many pop songs in comparison to hip hop songs. We wanted to first see based on the waveplots and spectrograms of the songs of each artist if they were similar in frame and the artists themselves exhibited a particular sound. 
+  The features of data that we used were the waveplots and spectrograms of the audio files in order to visualize each song, and then the SVC classifier based on the MFCC's of each song. Our hypothesis about the results is that the songs by the pop artists will exhibit a very formulaic graph whereas the hip hop songs will be much choppy and disorderly simply due to the nature of each genre of music. 
+  The techniques we will use rely on the the Librosa library and Sci-Kit Learn libraries in Python3, where we will extract and visualize the waveplots and spectrograms, and then run classification models against the different combinations of songs from each artist to see how easily the model can differentiate between them, as a method of determining the similarity of them. This is definitely not foolproof, but we think it can give us some interesting data.
+  Our results will basically just come 
+
 ## Data
 
 (10 points) 
@@ -73,7 +78,12 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+We were able to effectively distribute the work between team members by having each person be responsible for one artist for each genre as follows:
+Adam Kreitzman - Kendrick Lamar and Justin Bieber
+Jon Zhang - Chance the Rapper and Katy Pery
+Yijian Kong - 
+Ka Ming -
+Joseph Fallon - 
 
 ## Technical Notes and Dependencies
 
